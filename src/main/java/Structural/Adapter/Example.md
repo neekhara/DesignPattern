@@ -2,4 +2,4 @@ One website only accept pdf document and we have different-different type docume
 document of any type and try to convert them into pdf document.
 
 Real life example : Indian mobile charger to USA socket adpater
-![charger adapter.png](charger%20adapter.png)
+![charger_adapter.png](charger_adapter.png)
